@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+.russo-one-regular {
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+header{
+    background-color: #FFD100;
+    padding: 23px;
+    height: 25px;
+    width: 2000px;
+    font-size: 25px;
+    align-items: center;
+
+   
+}
+header, nav, nav ul {
+    display: flex;
+    align-items: center;
+    gap: 20rem;
+    font-weight: 700;
+}
+
+body {
+    background-color: #014ba0;
+    
+   }
+
+
+.container{
+    color:#ffffff;
+    color: none;
+    
+}
+
+.center {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 112px;
+    color: #ffffff;
+  }
+
+  .center2 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    width: 80%;
+    color: #ffffff;
+  }
+  .regras {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 75px;
+    color: #FDD002;
+  }
+  .regras2{
+    position: absolute;
+    top: 36%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    width: 98%;
+    color: #ffffff;
+  }
+
+  .demo{
+    position: absolute;
+    top: 77%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .Fundamentos{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 75px;
+    color: #FDD002;
+  }
+  .Fundamentos2{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px; /* Tamanho da fonte */
+    width: 98%; /* Largura do elemento centralizado */
+    color: #ffffff;
+  }
+  .Curiosidades{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 75px;
+    color: #FDD002;
+  }
+  .Curiosidades2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px; /* Tamanho da fonte */
+    width: 98%; /* Largura do elemento centralizado */
+    color: #ffffff;
+  }
